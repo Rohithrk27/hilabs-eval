@@ -1,0 +1,32 @@
+{
+  "entity_type_error_rate": {
+    "MEDICINE": 0.016949152542372836,
+    "PROBLEM": 0.19819819819819817,
+    "PROCEDURE": 0.18367346938775508,
+    "TEST": 0.06666666666666665,
+    "VITAL_NAME": 0.0,
+    "IMMUNIZATION": 0.0,
+    "MEDICAL_DEVICE": 0.4666666666666667,
+    "MENTAL_STATUS": 0.4444444444444444,
+    "SDOH": 0.6,
+    "SOCIAL_HISTORY": 0.33333333333333337
+  },
+  "assertion_error_rate": {
+    "POSITIVE": 0.7921686746987951,
+    "NEGATIVE": 0.11111111111111116,
+    "UNCERTAIN": 1.0
+  },
+  "temporality_error_rate": {
+    "CURRENT": 0.207667731629393,
+    "CLINICAL_HISTORY": 0.05714285714285716,
+    "UPCOMING": 0.06666666666666665,
+    "UNCERTAIN": 0.0
+  },
+  "subject_error_rate": {
+    "PATIENT": 0.0,
+    "FAMILY_MEMBER": 0.0
+  },
+  "event_date_accuracy": 0.0,
+  "attribute_completeness": 0.0,
+  "file_name": "735M97358_J619-210577_20241216.json"
+}
